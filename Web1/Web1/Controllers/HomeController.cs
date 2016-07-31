@@ -10,6 +10,7 @@ namespace Web1.Controllers
     {
         public ActionResult Index()
         {
+            var a = 8;
             return View();
         }
 
